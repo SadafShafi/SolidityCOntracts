@@ -1,0 +1,37 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/inheritanceEtc.sol": "tokensmartcontract"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/inheritanceEtc.sol": {
+			"keccak256": "0x902483d054d6d76ab823b8422fc25ed9e0f474825a2156d1a117f42ef684b592",
+			"urls": [
+				"bzz-raw://fb3ee151cc377ac97324901515e91e5a5443625b7be42cdfc6be058c95d233d1",
+				"dweb:/ipfs/QmYPcXbgssk3nrD31Rdr2Ko2Le39FkHA3fXAGUr1c6P9KX"
+			]
+		}
+	},
+	"version": 1
+}
